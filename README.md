@@ -17,7 +17,7 @@ Follow these steps to get started with `otp_verificatio_autofill`:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/otp_verificatio_autofill.git
+   git clone https://github.com/sunil-singh-chaudhary/Auto-Otp-Fill-Flutter
    cd otp_verificatio_autofill 
    
    ```
